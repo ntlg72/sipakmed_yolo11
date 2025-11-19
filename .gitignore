@@ -1,0 +1,39 @@
+# Entornos virtuales
+venv/
+.venv/
+ENV/
+env/
+*.env
+
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Archivos de configuración local
+*.sqlite3
+*.db
+*.DS_Store
+*.ipynb_checkpoints
+
+# Carpetas de datos y trabajo
+raw/
+working/
+
+# Archivos de modelos
+*.pt
+*.pth
+yolo11s.pt
+kaggle.json
+
+# Archivos temporales
+*.bak
+*.tmp
+*.swp
