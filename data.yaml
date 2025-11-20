@@ -1,8 +1,0 @@
-train: ./raw/dataset_multiclass
-nc: 5
-names:
-- Dyskeratotic
-- Koilocytotic
-- Metaplastic
-- Parabasal
-- Superficial-Intermediate

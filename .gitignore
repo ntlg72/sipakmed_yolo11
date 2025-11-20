@@ -25,7 +25,8 @@ build/
 
 # Carpetas de datos y trabajo
 raw/
-working/
+dataset/*
+kfold_splits/
 
 # Archivos de modelos
 *.pt
