@@ -38,3 +38,7 @@ kaggle.json
 *.bak
 *.tmp
 *.swp
+
+# Ignorar resultados de entrenamiento
+runs_sipakmed_kfold/
+
